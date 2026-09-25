@@ -151,7 +151,8 @@ ipykernel
 From the project directory:
 
 ```bash
-git clone https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification.git\ncd CLAP-Zero-Shot-Audio-Classification
+git clone https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification.git
+cd CLAP-Zero-Shot-Audio-Classification
 ```
 
 Create and activate the virtual environment:
