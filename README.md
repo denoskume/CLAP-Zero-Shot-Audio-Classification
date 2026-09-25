@@ -89,7 +89,7 @@ The experiment measures how these different textual formulations influence align
 ## Project Structure
 
 ```text
-Prompt_Engineering_Audio_Classification/
+CLAP-Zero-Shot-Audio-Classification/
 ├── .venv/                         # local environment, not tracked
 ├── data/
 │   └── ESC-50-master/             # downloaded locally, not tracked
@@ -151,7 +151,7 @@ ipykernel
 From the project directory:
 
 ```bash
-cd Projects/Prompt_Engineering_Audio_Classification
+git clone https://github.com/denoskume/CLAP-Zero-Shot-Audio-Classification.git\ncd CLAP-Zero-Shot-Audio-Classification
 ```
 
 Create and activate the virtual environment:
