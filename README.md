@@ -331,6 +331,6 @@ The experiment highlights several observations:
 
 ## Participants
 
-**Denos Kume**<br>
-**Venkatesh Muthukrishnan**<br><br>
+Denos Kume  
+Venkatesh Muthukrishnan
 
