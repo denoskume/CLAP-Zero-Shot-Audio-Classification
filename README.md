@@ -94,10 +94,10 @@ CLAP-Zero-Shot-Audio-Classification/
 ├── data/
 │   └── ESC-50-master/             # downloaded locally, not tracked
 ├── notebooks/
-│   ├── prompt_engineering_audio_classification_problem_statement.ipynb
-│   ├── prompt_engineering_audio_classification_requirements_gathering_and_approach.ipynb
-│   ├── prompt_engineering_audio_classification_theory.ipynb
-│   └── prompt_engineering_audio_classification.ipynb
+│   ├── problem_statement.ipynb
+│   ├── requirements.ipynb
+│   ├── theory.ipynb
+│   └── main.ipynb
 ├── outputs/
 │   ├── figures/
 │   └── tables/
@@ -114,10 +114,10 @@ The project follows the same four-notebook structure used across the repository:
 
 | Notebook | Purpose |
 | --- | --- |
-| `prompt_engineering_audio_classification_problem_statement.ipynb` | research problem, objectives, constraints, deliverables |
-| `prompt_engineering_audio_classification_requirements_gathering_and_approach.ipynb` | engineering requirements, experimental approach, acceptance criteria |
-| `prompt_engineering_audio_classification_theory.ipynb` | CLAP, zero-shot classification, embedding similarity, evaluation theory, limitations |
-| `prompt_engineering_audio_classification.ipynb` | executable implementation, benchmark results, figures, tables, and validation |
+| `problem_statement.ipynb` | research problem, objectives, constraints, deliverables |
+| `requirements.ipynb` | engineering requirements, experimental approach, acceptance criteria |
+| `theory.ipynb` | CLAP, zero-shot classification, embedding similarity, evaluation theory, limitations |
+| `main.ipynb` | executable implementation, benchmark results, figures, tables, and validation |
 
 All four notebooks use the same 15-task sequence from data preparation through the final results summary.
 
@@ -188,7 +188,7 @@ python -m ipykernel install \
 Open the executable notebook:
 
 ```text
-notebooks/prompt_engineering_audio_classification.ipynb
+notebooks/main.ipynb
 ```
 
 Select the kernel:
