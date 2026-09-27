@@ -1,4 +1,10 @@
-# Prompt Engineering for Unsupervised Audio Classification Using CLAP
+<p>
+  <img align="left" src="https://www.ec-nantes.fr/medias/photo/logocn-rvb_1648479844750-png?ID_FICHE=178994&amp;INLINE=FALSE" alt="Centrale Nantes" height="64">
+</p>
+<p align="right"><strong>MSc. CORO DASSIP</strong></p>
+<br clear="both">
+
+<h1 align="center">CLAP Zero-Shot Audio Classification</h1>
 
 Zero-shot environmental sound classification on ESC-50 using LAION-CLAP and prompt engineering.
 
