@@ -116,7 +116,7 @@ The `.venv/` directory and downloaded ESC-50 dataset are local resources and are
 
 ## Notebook Structure
 
-The project follows the same four-notebook structure used across the repository:
+The project is organized into four complementary notebooks:
 
 | Notebook | Purpose |
 | --- | --- |
